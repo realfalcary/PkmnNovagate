@@ -97,6 +97,13 @@ LittlerootTown_EventScript_SetMomInFrontOfDoorMale::
 	setobjectxyperm LOCALID_LITTLEROOT_MOM, 5, 9
 	return
 
+LittlerootTown_EventScript_RivalHouseSign::
+	msgbox LittlerootTown_Text_RivalHouseSign, MSGBOX_SIGN
+	end
+
+LittlerootTown_Text_RivalHouseSign::
+	.string "{RIVAL}'s House$"
+
 LittlerootTown_EventScript_SetMomInFrontOfDoorFemale::
 	setobjectxyperm LOCALID_LITTLEROOT_MOM, 14, 9
 	return

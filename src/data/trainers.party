@@ -9504,7 +9504,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Psychic
 - Future Sight
 
-=== TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
+=== TRAINER_BRENDAN_ROUTE_103_CROCURN ===
 Name: BRENDAN
 Class: Rival
 Pic: Brendan
@@ -9513,7 +9513,7 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
+Molroot
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9559,7 +9559,7 @@ Grovyle
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_BRENDAN_ROUTE_103_TREECKO ===
+=== TRAINER_BRENDAN_ROUTE_103_MOLROOT ===
 Name: BRENDAN
 Class: Rival
 Pic: Brendan
@@ -9568,7 +9568,7 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Force Setup First Turn
 
-Torchic
+Hissari
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9614,7 +9614,7 @@ Combusken
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
+=== TRAINER_BRENDAN_ROUTE_103_HISSARI ===
 Name: BRENDAN
 Class: Rival
 Pic: Brendan
@@ -9623,7 +9623,7 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
+Crocurn
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9669,7 +9669,7 @@ Marshtomp
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_MAY_ROUTE_103_MUDKIP ===
+=== TRAINER_MAY_ROUTE_103_MOLROOT ===
 Name: MAY
 Class: Rival
 Pic: May
@@ -9678,7 +9678,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
+Hissari
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9724,7 +9724,7 @@ Grovyle
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_MAY_ROUTE_103_TREECKO ===
+=== TRAINER_MAY_ROUTE_103_HISSARI ===
 Name: MAY
 Class: Rival
 Pic: May
@@ -9733,7 +9733,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Torchic
+Crocurn
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
@@ -9779,7 +9779,7 @@ Combusken
 Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-=== TRAINER_MAY_ROUTE_103_TORCHIC ===
+=== TRAINER_MAY_ROUTE_103_CROCURN ===
 Name: MAY
 Class: Rival
 Pic: May
@@ -9788,7 +9788,7 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
+Molroot
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 

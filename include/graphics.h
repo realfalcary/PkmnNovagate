@@ -3439,4 +3439,23 @@ extern const u16 gBattleIcons_Pal2[];
 extern const u32 gGhostFrontPic[];
 extern const u16 gGhostPalette[];
 
+// Crocurn
+extern const u32 gMonFrontPic_Crocurn[];
+extern const u32 gMonBackPic_Crocurn[];
+extern const u16 gMonPalette_Crocurn[];
+extern const u16 gMonShinyPalette_Crocurn[];
+extern const u8  gMonIcon_Crocurn[];
+extern const u16 gOverworldPalette_Crocurn[];
+extern const u16 gShinyOverworldPalette_Crocurn[];
+
+// Molroot
+extern const u32 gMonFrontPic_Molroot[];
+extern const u32 gMonBackPic_Molroot[];
+extern const u16 gMonPalette_Molroot[];
+extern const u16 gMonShinyPalette_Molroot[];
+extern const u8  gMonIcon_Molroot[];
+extern const u16 gOverworldPalette_Molroot[];
+extern const u16 gShinyOverworldPalette_Molroot[];
+
 #endif //GUARD_GRAPHICS_H
+

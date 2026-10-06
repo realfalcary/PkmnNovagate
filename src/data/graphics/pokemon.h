@@ -27500,6 +27500,59 @@ const u32 gObjectEventPic_Substitute[] = INCGFX_COMP("graphics/pokemon/question_
 #endif //OW_POKEMON_OBJECT_EVENTS
 #endif //P_FAMILY_PECHARUNT
 
+//Start of Novagate Fakemon
+
+// Crocurn
+const u32 gMonFrontPic_Crocurn[] = INCGFX_U32("graphics/pokemon/crocurn/anim_front.png", ".4bpp.smol");
+const u16 gMonPalette_Crocurn[] = INCGFX_U16("graphics/pokemon/crocurn/normal.pal", ".gbapal");
+const u32 gMonBackPic_Crocurn[] = INCGFX_U32("graphics/pokemon/crocurn/back.png", ".4bpp.smol");
+const u16 gMonShinyPalette_Crocurn[] = INCGFX_U16("graphics/pokemon/crocurn/shiny.pal", ".gbapal");
+const u8 gMonIcon_Crocurn[] = INCGFX_U8("graphics/pokemon/crocurn/icon.png", ".4bpp");
+#if P_FOOTPRINTS
+const u8 gMonFootprint_Crocurn[] = INCGFX_U8("graphics/pokemon/crocurn/footprint.png", ".1bpp");
+#endif //P_FOOTPRINTS
+#if OW_POKEMON_OBJECT_EVENTS
+const u32 gObjectEventPic_Crocurn[] = INCGFX_COMP("graphics/pokemon/crocurn/overworld.png", ".4bpp", "-mwidth 4 -mheight 4");
+#if OW_PKMN_OBJECTS_SHARE_PALETTES == FALSE
+const u16 gOverworldPalette_Crocurn[] = INCGFX_U16("graphics/pokemon/crocurn/overworld_normal.pal", ".gbapal");
+const u16 gShinyOverworldPalette_Crocurn[] = INCGFX_U16("graphics/pokemon/crocurn/overworld_shiny.pal", ".gbapal");
+#endif //OW_PKMN_OBJECTS_SHARE_PALETTES
+#endif //OW_POKEMON_OBJECT_EVENTS
+
+// Molroot
+const u32 gMonFrontPic_Molroot[] = INCGFX_U32("graphics/pokemon/molroot/anim_front.png", ".4bpp.smol");
+const u16 gMonPalette_Molroot[] = INCGFX_U16("graphics/pokemon/molroot/normal.pal", ".gbapal");
+const u32 gMonBackPic_Molroot[] = INCGFX_U32("graphics/pokemon/molroot/back.png", ".4bpp.smol");
+const u16 gMonShinyPalette_Molroot[] = INCGFX_U16("graphics/pokemon/molroot/shiny.pal", ".gbapal");
+const u8 gMonIcon_Molroot[] = INCGFX_U8("graphics/pokemon/molroot/icon.png", ".4bpp");
+#if P_FOOTPRINTS
+const u8 gMonFootprint_Molroot[] = INCGFX_U8("graphics/pokemon/molroot/footprint.png", ".1bpp");
+#endif //P_FOOTPRINTS
+#if OW_POKEMON_OBJECT_EVENTS
+const u32 gObjectEventPic_Molroot[] = INCGFX_COMP("graphics/pokemon/molroot/overworld.png", ".4bpp", "-mwidth 4 -mheight 4");
+#if OW_PKMN_OBJECTS_SHARE_PALETTES == FALSE
+const u16 gOverworldPalette_Molroot[] = INCGFX_U16("graphics/pokemon/molroot/overworld_normal.pal", ".gbapal");
+const u16 gShinyOverworldPalette_Molroot[] = INCGFX_U16("graphics/pokemon/molroot/overworld_shiny.pal", ".gbapal");
+#endif //OW_PKMN_OBJECTS_SHARE_PALETTES
+#endif //OW_POKEMON_OBJECT_EVENTS
+
+// Hissari
+const u32 gMonFrontPic_Hissari[] = INCGFX_U32("graphics/pokemon/hissari/anim_front.png", ".4bpp.smol");
+const u16 gMonPalette_Hissari[] = INCGFX_U16("graphics/pokemon/hissari/normal.pal", ".gbapal");
+const u32 gMonBackPic_Hissari[] = INCGFX_U32("graphics/pokemon/hissari/back.png", ".4bpp.smol");
+const u16 gMonShinyPalette_Hissari[] = INCGFX_U16("graphics/pokemon/hissari/shiny.pal", ".gbapal");
+const u8 gMonIcon_Hissari[] = INCGFX_U8("graphics/pokemon/hissari/icon.png", ".4bpp");
+#if P_FOOTPRINTS
+const u8 gMonFootprint_Hissari[] = INCGFX_U8("graphics/pokemon/hissari/footprint.png", ".1bpp");
+#endif //P_FOOTPRINTS
+#if OW_POKEMON_OBJECT_EVENTS
+const u32 gObjectEventPic_Hissari[] = INCGFX_COMP("graphics/pokemon/hissari/overworld.png", ".4bpp", "-mwidth 4 -mheight 4");
+#if OW_PKMN_OBJECTS_SHARE_PALETTES == FALSE
+const u16 gOverworldPalette_Hissari[] = INCGFX_U16("graphics/pokemon/hissari/overworld_normal.pal", ".gbapal");
+const u16 gShinyOverworldPalette_Hissari[] = INCGFX_U16("graphics/pokemon/hissari/overworld_shiny.pal", ".gbapal");
+#endif //OW_PKMN_OBJECTS_SHARE_PALETTES
+#endif //OW_POKEMON_OBJECT_EVENTS
+
     const u32 gMonFrontPic_Egg[] = INCGFX_U32("graphics/pokemon/egg/anim_front.png", ".4bpp.smol");
     const u16 gMonPalette_Egg[] = INCGFX_U16("graphics/pokemon/egg/normal.pal", ".gbapal");
     const u8 gMonIcon_Egg[] = INCGFX_U8("graphics/pokemon/egg/icon.png", ".4bpp");

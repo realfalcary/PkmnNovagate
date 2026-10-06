@@ -6729,4 +6729,18 @@ static const struct SpriteFrameImage sPicTable_Pecharunt[] = {
 };
 #endif //P_FAMILY_PECHARUNT
 
+//Start Novagate Fakemon
+
+#if P_FAMILY_MOLROOT
+static const struct SpriteFrameImage sPicTable_Molroot[] = {
+    overworld_ascending_frames(gObjectEventPic_Molroot, 4, 4),
+};
+#endif //P_FAMILY_MOLROOT
+
+#if P_FAMILY_HISSARI
+static const struct SpriteFrameImage sPicTable_Hissari[] = {
+    overworld_ascending_frames(gObjectEventPic_Hissari, 4, 4),
+};
+#endif //P_FAMILY_HISSARI
+
 #endif //OW_POKEMON_OBJECT_EVENTS

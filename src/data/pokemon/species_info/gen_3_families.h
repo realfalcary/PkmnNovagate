@@ -2689,7 +2689,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .baseSpeed     = 40,
         .baseSpAttack  = 45,
         .baseSpDefense = 35,
-        .types = MON_TYPES(TYPE_PSYCHIC, RALTS_FAMILY_TYPE2),
+        .types = MON_TYPES(TYPE_FAIRY, TYPE_DARK),
         .catchRate = 235,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 40 : 70,
         .evYield_SpAttack = 1,
@@ -2712,7 +2712,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             "horns on its head. It takes cover if it\n"
             "senses any hostility."),
         .pokemonScale = 457,
-        .pokemonOffset = -3,
+        .pokemonOffset = -1,
         .trainerScale = 256,
         .trainerOffset = 0,
         .frontPic = gMonFrontPic_Ralts,
