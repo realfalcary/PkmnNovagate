@@ -3038,3 +3038,22 @@ const u16 ALIGNED(4) gTilesetPalettes_General_Frlg[][16] =
 const u32 gTilesetTiles_General_Frlg[] = INCGFX_U32("data/tilesets/primary/general_frlg/tiles.png", ".4bpp.smol");
 
 #endif // IS_FRLG
+
+const u16 gTilesetPalettes_PorytilesPrimaryTutorial[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/porytiles_primary_tutorial/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_PorytilesPrimaryTutorial[] = INCBIN_U32("data/tilesets/primary/porytiles_primary_tutorial/tiles.4bpp.lz");
